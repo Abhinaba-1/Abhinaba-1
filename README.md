@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinaba Prakash
-- 👀 I’m interested in Competetive Coding
-- 🌱 I’m currently learning Verilog
+- 👀 I’m interested in Competetive Programming, Web Developing
+- 🌱 I’m currently learning React JS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
